@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skyyt15
 - 👀 I’m interested in C# exiled and python discord
 - 🌱 I’m currently learning C# exiled
-- 💞️ Je suis le fondateur de funny game --> https://discord.gg/dK9pYEmUfD 
+- 💞️ you can report any bug in my discord bug --> https://discord.gg/4gRQ4uaCdy (⚠construction in progress⚠)
 - 📫 How to reach me doublecraft76ytb@gmail.com
