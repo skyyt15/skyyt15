@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @skyyt15
+- 👋 Hi, I’m @skyyt15 (@skyfr0676 on discord)
 - 👀 I’m interested in C# exiled and python discord
 - 🌱 I’m currently learning C# exiled
-- 💞️ you can report any bug in my discord bug --> https://discord.gg/4gRQ4uaCdy (⚠construction in progress⚠)
 - 📫 How to reach me doublecraft76ytb@gmail.com
